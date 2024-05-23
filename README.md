@@ -15,4 +15,4 @@ py -m venv (nombre_del_entorno)
  ```
  pip install beautifulsoup4
  ```
-4. Ejecutar el archivo con py web.py
+4. Ejecutar los archivos con py
